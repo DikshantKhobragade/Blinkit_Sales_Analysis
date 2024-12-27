@@ -1,3 +1,5 @@
+# Blinkit Grocery Sales Analysis
+
 I analyzed Blinkit Grocery Sales data using Microsoft Excel to uncover key insights and trends through detailed visualizations. This project provided hands-on experience in data manipulation, visualization, and deriving actionable insights into customer preferences, sales performance, and other critical metrics.
 
 ##  Project Overview
