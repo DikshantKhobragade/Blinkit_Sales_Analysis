@@ -20,7 +20,6 @@ Here Are My Some Recommendations for Improving Sales
 - Market Low-Fat Products: Leverage the growing health-conscious trend to promote low-fat items.
 
 
-
-
+[<img src="./Code_outputs/mysql_logo.png" alt="myql-logo" width="100"/>]
 
 
